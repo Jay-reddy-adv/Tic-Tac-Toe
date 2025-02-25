@@ -4,7 +4,7 @@
 
 A simple Tic-Tac-Toe game built using Java in Android Studio. This game allows two players to play alternately on the same device, displaying the winner or a draw when the game ends.
 
-📖 Features
+**📖 Features** :
 
 ✅ Two-player game (X vs O)
 
@@ -16,7 +16,7 @@ A simple Tic-Tac-Toe game built using Java in Android Studio. This game allows t
 
 
 
-🚀 **Technologies Used  Java**
+🚀 **Technologies Used  Java** :
 
 🔹 Android Studio
 
@@ -25,7 +25,7 @@ A simple Tic-Tac-Toe game built using Java in Android Studio. This game allows t
 🔹 Event Handling for game logic
 
 
-💡 **Future Enhancements**
+💡 **Future Enhancements** :
 
 🔹 Implement AI (Computer Mode) using Minimax Algorithm
 
