@@ -2,7 +2,6 @@
 🎮 Tic-Tac-Toe Android App
 
 
-
 A simple Tic-Tac-Toe game built using Java in Android Studio. This game allows two players to play alternately on the same device, displaying the winner or a draw when the game ends.
 
 📖 Features
@@ -17,18 +16,16 @@ A simple Tic-Tac-Toe game built using Java in Android Studio. This game allows t
 
 
 
-🚀 Technologies Used
+🚀 **Technologies Used  Java**
 
-Java
+🔹 Android Studio
 
-Android Studio
+🔹 GridLayout / LinearLayout for UI
 
-GridLayout / LinearLayout for UI
-
-Event Handling for game logic
+🔹 Event Handling for game logic
 
 
-💡 Future Enhancements
+💡 **Future Enhancements**
 
 🔹 Implement AI (Computer Mode) using Minimax Algorithm
 
